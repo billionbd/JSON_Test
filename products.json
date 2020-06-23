@@ -19,17 +19,17 @@
 		},
 		{
 			"id": 2,
-			"thumb": "img/product-2-thumb.jpg",
-			"title": "Second Product",
-			"body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Duis aute irure dolor eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
-			"tags": ["Tag3", "Tag4"],
+			"thumb": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6b478c8a-b172-4624-97bc-f6c5e3ef436d/air-force-1-shadow-womens-shoe-mT9zCk.jpg",
+			"title": "Nike Air Force 1 Shadow",
+			"body": "The Nike Air Force 1 Shadow puts a playful twist on a classic b-ball design. Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF1 DNA with a bold, feminine look. The rich colors and textures inspired by Coney Island fun let every step pulse with energy.",
+			"tags": ["Man", "Shoes"],
 			"pictures": [
-				"img/products-1-2.jpg",
-				"img/products-1-1.jpg",  
-				"img/products-1-3.jpg",
-				"img/products-1-4.jpg",
-				"img/products-1-5.jpg",
-				"img/products-1-6.jpg"
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4a12cca8-6c86-4306-a573-f4743000d3e8/air-force-1-shadow-womens-shoe-mT9zCk.jpg",
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ef58c317-b5b2-46c7-b97d-7132d1001217/air-force-1-shadow-womens-shoe-mT9zCk.jpg",  
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/36d4ae51-da38-471a-9ca9-b9374c76b97a/air-force-1-shadow-womens-shoe-mT9zCk.jpg",
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/28d788a6-6ae7-4bc2-b021-4d360a7ccbf8/air-force-1-shadow-womens-shoe-mT9zCk.jpg",
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/0e54a6a4-f1c6-4496-9685-f1b0fbaa6bc7/air-force-1-shadow-womens-shoe-mT9zCk.jpg",
+				"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/140a6203-f5da-46cb-98c3-1aeb2ea09a10/air-force-1-shadow-womens-shoe-mT9zCk.jpg"
 			]
 		},
 		{
@@ -37,7 +37,7 @@
 			"thumb": "img/product-3-thumb.jpg",
 			"title": "Third Product",
 			"body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Duis aute irure dolor eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
-			"tags": ["Tag5"],
+			"tags": ["Man", "Shoes"],
 			"pictures": [
 				"img/products-1-3.jpg",
 				"img/products-1-1.jpg", 
@@ -52,7 +52,7 @@
 			"thumb": "img/product-4-thumb.jpg",
 			"title": "Fourth Product",
 			"body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Duis aute irure dolor eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
-			"tags": ["Tag6", "Tag7"],
+			"tags": ["Man", "Shoes"],
 			"pictures": [
 				"img/products-1-4.jpg",
 				"img/products-1-1.jpg", 
@@ -67,7 +67,7 @@
 			"thumb": "img/product-5-thumb.jpg",
 			"title": "Fifth Product",
 			"body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Duis aute irure dolor eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
-			"tags": ["Tag8", "Tag9"],
+			"tags": ["Man", "Shoes"],
 			"pictures": [
 				"img/products-1-5.jpg",
 				"img/products-1-1.jpg", 
