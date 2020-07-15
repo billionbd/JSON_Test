@@ -1,4 +1,5 @@
 {
+  image:'',
   name: 'মহানগরের আলেয়া',
   slug:'mohanogoreraleya',
   color:'F9A825',
@@ -6,6 +7,7 @@
   dlink:'https://xcomixapps.blogspot.com/',
 },
 {
+  image:'',
   name: 'কামনাকুসুমাঞ্জলি',
   slug:'kamonaksumanjoli',
   color:'808000',
@@ -13,6 +15,7 @@
   dlink:'https://xcomixapps.blogspot.com/',
 },
 {
+  image:'',
   name: 'পাপ কাম ভালবাসা',
   slug:'papkumvalobasha',
   color:'387EF5',
@@ -20,6 +23,7 @@
   dlink:'https://xcomixapps.blogspot.com/',
 },
 {
+  image:'',
   name: 'গল্পভান্ডার',
   slug:'golpovandar',
   color:'5C6BBE',
@@ -27,6 +31,7 @@
   dlink:'https://xcomixapps.blogspot.com/',
 },
 {
+  image:'',
   name: 'টেটরিস গেমস',
   slug:'tetris',
   color:'f4c542',
@@ -34,6 +39,7 @@
   dlink:'https://xcomixapps.blogspot.com/',
 },
 {
+  image:'',
   name: 'রান্না খাদ্য পুষ্টি',
   slug:'rannakhaddopusti',
   color:'F3A370',
