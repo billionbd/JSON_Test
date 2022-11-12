@@ -2,42 +2,52 @@
 	"Status": "Success",
 	"Message": "success to load data",
 	"Data": [{
-			"DoctorName": "Dr. Budi",
-			"Specialist": "Spesialis Umum",
+			"DoctorName": "Dr. Hafizur Rahman",
+			"Specialist": "General Specialist",
 			"Hospitals": [{
-				"Name": "Rumah Sakit A",
-				"Address": "Jalan Thamrin 1",
-				"Schedule": "Rabu, 12.00 - 22.00"
+				"Name": "Epic Healthcare, Chittagong",
+				"Address": "19, K.B. Fazlul Kader Road, Panchlish, Chattogram",
+				"Schedule": "6pm to 9pm (Closed: Friday)"
 			}]
 		},
 		{
-			"DoctorName": "Drs. Mira",
-			"Specialist": "Spesialis Kandungan",
+			"DoctorName": "Prof. Dr. Abdullah Shahriar",
+			"Specialist": "Child Specialist & Pediatric Cardiologist",
 			"Hospitals": [{
-					"Name": "Rumah Sakit C",
-					"Address": "Jalan Jend Sudirman 1",
-					"Schedule": "Jumat, 18.00 - 22.00"
+					"Name": "Labaid Diagnostic, Kalabagan",
+					"Address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
+					"Schedule": "2pm to 5pm (Sat, Mon & Wed)"
 				},
 				{
-					"Name": "Rumah Sakit D",
-					"Address": "Jalan Jend Sudirman 2",
-					"Schedule": "Sabtu, 08.00 - 12.00"
-				},
-				{
-					"Name": "Rumah Sakit E",
-					"Address": "Jalan Jend Sudirman 3",
-					"Schedule": "Rabu, 13.00 - 22.00"
+					"Name": "Labaid Hospital, Chittagong",
+					"Address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+					"Schedule": "10am to 4pm (Only Friday)"
 				}
 			]
 		},
 		{
-			"DoctorName": "Drs. Rani",
-			"Specialist": "Spesialis Gigi",
+			"DoctorName": "Dr. Rumana Islam",
+			"Specialist": "Pediatric Neurology & Neurodevelopment Specialist",
 			"Hospitals": [{
-				"Name": "Rumah Sakit C",
-				"Address": "Jalan Jend Sudirman 1",
-				"Schedule": "Selasa, 18.00 - 22.00"
+				"Name": "Labaid Hospital, Chittagong",
+				"Address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+				"Schedule": "10am to 4pm (Only Friday)"
 			}]
+		},
+		{
+			"DoctorName": "Dr. Rezwana Habiba",
+			"Specialist": "Mental Diseases, Sexual Health, Parenting Specialist & Psychotherapist",
+			"Hospitals": [{
+					"Name": "Ibn Sina Hospital, Sylhet",
+					"Address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+					"Schedule": "5pm to 9pm (Closed: Tue & Friday)"
+				},
+				{
+					"Name": "Sylhet MAG Osmani Medical College & Hospital",
+					"Address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+					"Schedule": "2.30pm to 5.30pm (Closed: Friday)"
+				}
+			]
 		}
 	]
 }
