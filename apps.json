@@ -6,7 +6,7 @@
 		slug:'mohanogoreraleya',
 		color:'F9A825',
 		description:'সংগৃহীত +১৮ উপন্যাস',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 	{
 		id:'',
@@ -15,7 +15,7 @@
 		slug:'kamonaksumanjoli',
 		color:'808000',
 		description:'সংগৃহীত +১৮ উপন্যাস',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 	{
 		id:'2',
@@ -24,7 +24,7 @@
 		slug:'papkumvalobasha',
 		color:'387EF5',
 		description:'সংগৃহীত +১৮ উপন্যাস',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 	{
 		id:'3',
@@ -33,7 +33,7 @@
 		slug:'golpovandar',
 		color:'5C6BBE',
 		description:'সংগৃহীত +১৮ গুচ্ছ গল্প এখানে পাবেন। যা প্রতিদিন নিয়মিত আপডেট হয়।',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 	{
 		id:'4',
@@ -42,7 +42,7 @@
 		slug:'tetris',
 		color:'f4c542',
 		description:'Classic Games',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 	{
 		id:'5',
@@ -51,6 +51,6 @@
 		slug:'rannakhaddopusti',
 		color:'F3A370',
 		description:'খাবারের খবর, টিপস, রেসিপিসহ মজার মজার তথ্য এখানে পাবেন। যা প্রতিদিন নিয়মিত আপডেট হয়।',
-		dlink:'https://xcomixapps.blogspot.com/',
+		dlink:'https://xcomixapps.blogspot.com',
 	},
 ]
