@@ -1,0 +1,147 @@
+[
+	{
+		"id": "1",
+		"code": "H175985623",
+		"type": "",
+		"gender": "male",
+		"supervisor": "953874562",
+		"title_en": "Sonar Bangla Boarding House",
+		"title_bn": "সোনার বাংলা বোর্ডিং হাউজ",
+		"address_en": "Eastern plaza, Hatirpool, Dhaka 1205",
+		"address_bn": "ইস্টার্ণ প্লাজা, হাতির পুল, ঢাকা - ১২০৫",
+		"latitude": "23.745899",
+		"longitude": "90.391928",
+		"contact_no": "+8801XXXXXXXXX",
+		"contact_email": "sample@gmail.com",
+		"logo": "https://cdn.pixabay.com/photo/2019/10/13/20/07/house-4547140_640.jpg",
+		"start_month": "YYYY-mm",
+		"created_by": "953874562",
+		"created_at": "2020-04-25 09:25:22",
+		"status": "active",
+		"meal_system": [
+			{
+				"id": 1,
+				"title_en": "Breakfast",
+				"title_bn": "সকালের নাস্তা",
+				"amount": ".5",
+				"symbol": "B",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 2,
+				"title_en": "Launch",
+				"title_bn": "দুপুরের খাবার",
+				"amount": "1",
+				"symbol": "B",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 3,
+				"title_en": "Supper",
+				"title_bn": "রাতের খাবার",
+				"amount": "1",
+				"symbol": "B",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			}
+		],
+		"extra_cost": [
+			{
+				"id": 1,
+				"title_en": "Seat Rent",
+				"title_bn": "সিট ভাড়া",
+				"amount": "1200",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 2,
+				"title_en": "Dish Bill",
+				"title_bn": "ডিস বিল",
+				"amount": "100",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 3,
+				"title_en": "Wifi Bill",
+				"title_bn": "ওয়াইফাই বিল",
+				"amount": "30",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 4,
+				"title_en": "Bua Bill",
+				"title_bn": "বুয়া বিল",
+				"amount": "200",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 5,
+				"title_en": "Garbege Bill",
+				"title_bn": "ময়লা বিল",
+				"amount": "10",
+				"created_by": "953874562",
+				"created_at": "2020-04-25 09:25:22"
+			}
+		],
+		"image": [
+			{
+				"id": 1,
+				"img": "",
+				"uploaded_by": "953874562",
+				"uploaded_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 2,
+				"img": "",
+				"uploaded_by": "953874562",
+				"uploaded_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 3,
+				"img": "",
+				"uploaded_by": "953874562",
+				"uploaded_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 4,
+				"img": "",
+				"uploaded_by": "953874562",
+				"uploaded_at": "2020-04-25 09:25:22"
+			},
+			{
+				"id": 5,
+				"img": "",
+				"uploaded_by": "953874562",
+				"uploaded_at": "2020-04-25 09:25:22"
+			}
+		],
+		"members": [
+			{
+				"id": 1,
+				"code": 953874562,
+				"type": "maneger",
+				"profile_image": "https://i.pravatar.cc/300?u=1",
+				"title_en": "Abedur Rahman",
+				"title_bn": "আবেদুর রহমান",
+				"gender": "male",
+				"since": "2020-04-25"
+			},
+			{
+				"id": 2,
+				"code": 985632147,
+				"type": "user",
+				"profile_image": "https://i.pravatar.cc/300?u=2",
+				"title_en": "Md. Mahfuzur Rahman",
+				"title_bn": "মোঃ মোস্তাফিজুর রহমান",
+				"gender": "male",
+				"since": "2020-05-01"
+			}
+		]
+	}
+]
