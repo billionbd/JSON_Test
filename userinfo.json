@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Michele",
+        "last": "Rousseau"
+      },
+      "location": {
+        "street": {
+          "number": 3282,
+          "name": "Place du 22 Novembre 1943"
+        },
+        "city": "Hellsau",
+        "state": "Ticino",
+        "country": "Switzerland",
+        "postcode": 5753,
+        "coordinates": {
+          "latitude": "-62.4973",
+          "longitude": "-94.0075"
+        },
+        "timezone": {
+          "offset": "-10:00",
+          "description": "Hawaii"
+        }
+      },
+      "email": "michele.rousseau@example.com",
+      "login": {
+        "uuid": "ae1546c4-5baf-46d2-8d89-22b08e154dbc",
+        "username": "orangelion261",
+        "password": "spears",
+        "salt": "wTO7BZis",
+        "md5": "5af8719101c7a5836222ec1f66d015a5",
+        "sha1": "2eec578a781b2f91c63ada076119c384178f08bd",
+        "sha256": "47ffeb88986843de68ac69d889cb4ae8f2743cc2b391cea5c371b05b07009bb1"
+      },
+      "dob": {
+        "date": "1953-02-03T15:20:22.896Z",
+        "age": 70
+      },
+      "registered": {
+        "date": "2016-07-11T15:31:28.457Z",
+        "age": 6
+      },
+      "phone": "079 032 87 76",
+      "cell": "076 645 24 30",
+      "id": {
+        "name": "AVS",
+        "value": "756.3988.1531.47"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+      },
+      "nat": "CH"
+    }
+  ],
+  "info": {
+    "seed": "2ea2e7d03e8228d8",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
