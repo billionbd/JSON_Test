@@ -11,8 +11,8 @@
 		"seat_name": "Premium"
 		"seat_avail": "3"
 		"seat_price": "2100"
-		"creat_by": "953874562",
-		"creat_at": "2020-04-25 09:25:22",
+		"create_by": "953874562",
+		"create_at": "2020-04-25 09:25:22",
 		"status": "active"
 	},
 	{
@@ -27,8 +27,8 @@
 		"seat_name": "Normal"
 		"seat_avail": "2"
 		"seat_price": "1500"
-		"creat_by": "953874562",
-		"creat_at": "2020-04-25 09:25:22",
+		"create_by": "953874562",
+		"create_at": "2020-04-25 09:25:22",
 		"status": "active"
 	}
 ]
